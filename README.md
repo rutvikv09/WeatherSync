@@ -1,7 +1,7 @@
 # Near Real-Time Weather Data Processing
 `v1.0.1`
 
-![Near Real-Time Weather Data Processing]
+![image](https://github.com/user-attachments/assets/17cdbdae-6750-46e9-9cd0-b72967efae8d)
 
 The **Near Real-Time Weather Data Processing** project is designed to explore full-stack development and near-real-time data processing technologies. Using **Kappa Architecture**, the project integrates **OpenWeather APIs** for live weather data, processes it through **Kafka**, **Spark**, and stores it in **Cassandra**. The back-end is hosted on an **AWS EC2 instance** with secure connections managed via **AWS API Gateway**, while the front-end, built with **Angular**, communicates with a **Spring Boot API**. This project focuses on building scalable, fault-tolerant systems and gaining hands-on experience with cloud computing, data streaming, and web development.
 - Project Components:
